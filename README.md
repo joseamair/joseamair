@@ -3,7 +3,7 @@
 # Hi there, I'm Jose Gabriel Kordahi Amair 👋
 
 <a href="https://github.com/joseamair">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+%26+Software+Engineer+%289%2B+Years%29%3BLLM-Grounding+Platforms+%26+Evaluation+Tooling%3BAutonomous+Agent+Orchestration+%26+CLI+Tooling%3BEnterprise+Audio+ML+Pipelines+%26+Voice+AI%3BB.Sc.+Systems+Engineering+%7C+Control+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+%26+Software+Engineer+%289%2B+Years%29%3BLLM-Grounding+Platforms+%26+Evaluation+Tooling%3BPython-Centric+ETL+%26+Dataset+Curation%3BEnterprise+Audio+ML+Pipelines%3BB.Sc.+Systems+Engineering+%7C+Control+%26+Automation" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,15 +17,14 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Professional Summary
 
-Data & Software Engineer with **9+ years** architecting production data delivery, annotation, and validation platforms for large-scale audio ML pipelines, now building **LLM-grounding data platforms, evaluation tooling, and autonomous agent orchestration systems**. 
+Data Engineer with **9+ years** in data delivery, annotation, and validation for large-scale audio ML pipelines, now building LLM-grounding data platforms and evaluation tooling. Specialized in Python-centric ETL, dataset curation, and enforcing strict metadata traceability and licensing compliance across global organizations.
 
-- 🚀 **Production Platforms:** Experience spanning **Kedara.care**, **Cisco**, and **BabbleLabs**, delivering Python-centric ETL, strict metadata traceability, and enterprise compliance across global organizations.
-- 🤖 **Agentic & LLM Systems:** Architecting multi-agent CLI coordination layers, rolling 5-hour rate-limit managers, LLM-as-a-Judge evaluation harnesses, and multi-provider routing (OpenRouter).
-- 🎙️ **Voice AI & Telemetry:** Benchmarking ASR/TTS models (ElevenLabs, Whisper), post-processing Arize traces & spans, and engineering automated data validation over 200K+ records.
-- 🦾 **Systems & Robotics Foundation:** B.Sc. in Systems Engineering (Control & Automation of Processes; 18-DoF hexapod robot thesis with 20/20 honors).
-- 💬 **Ask me about:** LLM evaluation design, multi-agent workflows, Python internals, asynchronous FastAPI architectures, and low-level system benchmarking.
+- 🚀 **Industry Experience:** 9+ years across **Kedara.care**, **Cisco**, and **BabbleLabs** delivering production audio datasets, ETL pipelines, and knowledge-base ingestion.
+- 📊 **Data Engineering & ETL:** Practical experience with Python, SQL, MongoDB, Typesense, Apache Airflow, Kafka, and data quality validation across 200K+ records.
+- 🤖 **Applied AI & Tooling:** Building LLM evaluation scenarios (LLM-as-a-Judge, OpenRouter), voice model benchmarking (ElevenLabs, Whisper), and exploring developer CLI tooling.
+- 🎓 **Education:** B.Sc. in Systems Engineering from Universidad de Los Andes (Specialization in Control & Automation).
 
 ---
 
