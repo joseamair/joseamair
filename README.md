@@ -66,11 +66,9 @@ Data Engineer with **9+ years** in data delivery, annotation, and validation for
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | ⚡ **[agent-quota-tracker](https://github.com/joseamair/agent-quota-tracker)** | Autonomous watchdog CLI monitor & live web dashboard tracking 5-hour rolling rate limits, weekly quotas, and smart window priming across Claude Code, OpenAI Codex, and Google Antigravity. | `Python 3.11+` `uv` `FastAPI` `HTML5/CSS` |
-| 🤖 **[cli-agent-orchestrator](https://github.com/joseamair/cli-agent-orchestrator)** | Autonomous coordination layer multiplexing native vendor CLIs across isolated Git worktrees and WezTerm panes. Features durable state files, keep-alive verify loops, and preemptive quota handoffs. | `Python 3.12+` `WezTerm CLI` `Git Worktrees` |
-| 🚴 **[VeloMind](https://github.com/joseamair/aerofuel_intervals_icu)** | AI-driven endurance coach analyzing biometric telemetry (HRV, sleep, body battery) from Garmin, Strava, and Intervals.icu to generate adaptive training recommendations and fueling strategies. | `FastAPI` `SQLModel` `React` `Vitest` `Playwright` |
-| 🎨 **[LocalPenServer V2](https://github.com/joseamair/windows_drawing_server)** | Real-time collaborative whiteboard and vector drawing server. Turns tablets into wireless PC drawing pads with infinite canvas zoom/pan, palm rejection, and instant WebSockets sync. | `React` `Vite` `FastAPI` `WebSockets` `Fabric.js` |
-| 🧪 **[disk_test_utility](https://github.com/joseamair/disk_test_utility)** & **[data_multiprocess](https://github.com/joseamair/data_multiprocess)** | High-throughput data processing workflows and storage performance benchmark tooling for measuring real-world multi-disk I/O operations and resource limits. | `Python` `Multiprocessing` `I/O Benchmarking` |
-| 🎙️ **[whisper_base](https://github.com/joseamair/whisper_base)** & **[ros2_gazebo_training](https://github.com/joseamair/ros2_gazebo_training)** | Practical speech-to-text / audio synthesis experimentation and robotics simulation environments built on ROS 2 and Gazebo. | `ROS 2` `Gazebo` `Whisper AI` `PyTorch` |
+| 🤖 **cli-agent-orchestrator** *(Private MVP)* | Autonomous coordination layer multiplexing native vendor CLIs across isolated Git worktrees and WezTerm panes. Features durable state files, keep-alive verify loops, and preemptive quota handoffs. | `Python 3.12+` `WezTerm CLI` `Git Worktrees` |
+| 🚴 **VeloMind** *(Private)* | AI-driven endurance coach analyzing biometric telemetry (HRV, sleep, body battery) from Garmin, Strava, and Intervals.icu to generate adaptive training recommendations and fueling strategies. | `FastAPI` `SQLModel` `React` `Vitest` `Playwright` |
+| 🎨 **LocalPenServer V2** *(Private)* | Real-time collaborative whiteboard and vector drawing server. Turns tablets into wireless PC drawing pads with infinite canvas zoom/pan, palm rejection, and instant WebSockets sync. | `React` `Vite` `FastAPI` `WebSockets` `Fabric.js` |
 
 ---
 
