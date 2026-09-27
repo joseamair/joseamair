@@ -124,7 +124,7 @@ Data Engineer with **9+ years** in data delivery, annotation, and validation for
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
 </p>
 
-#### ⚙️ DevOps, Systems & Robotics
+#### ⚙️ DevOps & Cloud Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -132,8 +132,6 @@ Data Engineer with **9+ years** in data delivery, annotation, and validation for
   <img src="https://img.shields.io/badge/Linux_%2F_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Gazebo-F58220?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
 </p>
 
 </div>
