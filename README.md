@@ -3,7 +3,7 @@
 # Hi there, I'm Jose Gabriel Kordahi Amair 👋
 
 <a href="https://github.com/joseamair">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+%26+Software+Engineer+(9%2B+Years);LLM-Grounding+Platforms+%26+Evaluation+Tooling;Autonomous+Agent+Orchestration+%26+CLI+Tooling;Enterprise+Audio+ML+Pipelines+%26+Voice+AI;B.Sc.+Systems+Engineering+•+Control+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+%26+Software+Engineer+%289%2B+Years%29%3BLLM-Grounding+Platforms+%26+Evaluation+Tooling%3BAutonomous+Agent+Orchestration+%26+CLI+Tooling%3BEnterprise+Audio+ML+Pipelines+%26+Voice+AI%3BB.Sc.+Systems+Engineering+%7C+Control+%26+Automation" alt="Typing SVG" />
 </a>
 
 <p align="center">
